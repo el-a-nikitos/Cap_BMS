@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 10)
+    (drawings 7)
     (tracks 0)
     (zones 0)
     (modules 0)
@@ -100,15 +100,12 @@
     (uvia_drill 0.1)
   )
 
-  (gr_line (start 190.25 128.25) (end 190.25 48.25) (layer F.SilkS) (width 0.2) (tstamp 5C517663))
-  (gr_line (start 160.25 48.25) (end 160.25 128.25) (layer F.SilkS) (width 0.2) (tstamp 5C517662))
-  (gr_line (start 110.25 128.25) (end 110.25 48.25) (layer F.SilkS) (width 0.2))
-  (gr_line (start 80.25 48.25) (end 80.25 128.25) (layer F.SilkS) (width 0.2))
-  (gr_circle (center 95.25 88.25) (end 101.75 89) (layer F.SilkS) (width 0.2) (tstamp 5C5175E4))
-  (gr_circle (center 175.25 88.25) (end 181.75 89) (layer F.SilkS) (width 0.2))
-  (gr_line (start 60.25 128.25) (end 60.25 48.25) (layer F.SilkS) (width 0.2))
-  (gr_line (start 210.25 128.25) (end 60.25 128.25) (layer F.SilkS) (width 0.2))
-  (gr_line (start 210.25 48.25) (end 210.25 128.25) (layer F.SilkS) (width 0.2))
-  (gr_line (start 60.25 48.25) (end 210.25 48.25) (layer F.SilkS) (width 0.2))
+  (gr_circle (center 132.5 109.75) (end 139 110.5) (layer F.SilkS) (width 0.2) (tstamp 5C5175E4))
+  (gr_circle (center 212.5 109.75) (end 219 110.5) (layer F.SilkS) (width 0.2))
+  (gr_line (start 132.5 109.75) (end 212.5 109.75) (layer F.SilkS) (width 0.2))
+  (gr_line (start 97.5 149.75) (end 97.5 69.75) (layer F.SilkS) (width 0.2))
+  (gr_line (start 247.5 149.75) (end 97.5 149.75) (layer F.SilkS) (width 0.2))
+  (gr_line (start 247.5 69.75) (end 247.5 149.75) (layer F.SilkS) (width 0.2))
+  (gr_line (start 97.5 69.75) (end 247.5 69.75) (layer F.SilkS) (width 0.2))
 
 )
